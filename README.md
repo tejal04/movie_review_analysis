@@ -3,7 +3,7 @@
 
 ### Dataset
 1. [IMDb 50k movie reviews dataset released by Stanford](https://ai.stanford.edu/~amaas/data/sentiment/)
-2. [Reviews of The Shawshank Redemption scraped from IMDb](../dataset/)
+2. [Reviews of The Shawshank Redemption scraped from IMDb](../main/dataset)
 
 Here is a [3-min summary](https://www.youtube.com/watch?v=mFz2TGn07qI) of the movie for better understanding of the results.
 
